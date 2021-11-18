@@ -54,3 +54,9 @@ body
     width: 131px;
     font-size: 26px;
 }
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 21px;
+}
